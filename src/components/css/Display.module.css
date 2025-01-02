@@ -1,0 +1,12 @@
+/* Pantalla de la calculadora */
+.Display {
+  background-color: #1c1c1c;
+  color: white;
+  font-size: 3rem;  /* Aumenté el tamaño de la fuente */
+  padding: 20px;
+  text-align: right;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  min-width: 300px; /* Aumenté el tamaño mínimo de la pantalla */
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.5);
+}
